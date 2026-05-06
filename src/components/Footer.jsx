@@ -21,9 +21,9 @@ const Footer = () => {
              <p className="text-white/20 text-[10px] font-bold uppercase tracking-[0.3em] mb-2">
                Surveillance Systems by KK &copy; 2026
              </p>
-             <p className="text-text-secondary text-[10px] font-medium italic opacity-30">
+             {/* <p className="text-text-secondary text-[10px] font-medium italic opacity-30">
                Charleston, Illinois, United States
-             </p>
+             </p> */}
           </div>
         </div>
 
